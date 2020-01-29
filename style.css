@@ -1,0 +1,21 @@
+body {
+	border: 1px solid white;
+	padding: 130px;
+	margin: 220px;
+	box-shadow: 6px 6px 20px black;
+}
+h3 {
+	text-decoration: underline;
+	text-align: center;
+}
+.info {
+	text-align: right;
+}
+h4 {
+	text-decoration: underline;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: #000000;
+}
