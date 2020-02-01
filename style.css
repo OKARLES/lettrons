@@ -1,34 +1,19 @@
 body {
-	padding: 60px;
-	margin: 270px;
-	box-shadow: 2px 2px 3px 5px black;
+	border: 1px solid white;
+	padding: 130px;
+	margin: 220px;
+	box-shadow: 6px 6px 20px black;
 }
- .ab{text-decoration: underline;
+h3 {
+	text-decoration: underline;
+	text-align: center;
 }
-
-.contenu{
-	border: 1px solid black;
-}
-
-.p1{
-	padding-top: -20;
-	line-height: 20px;
-}
-main, .last,header{
-	text-align: justify;
-	font-size: 20px;
-	margin: 0 15px 0 15px;
-}
-.info {line-height: 20px;
+.info {
 	text-align: right;
-	font-size: 20px;
-	margin: 0 15px 80px 15px;
-
 }
 h4 {
 	text-decoration: underline;
 	text-align: center;
-	font-size: 30px;
 }
 a {
 	text-decoration: none;
